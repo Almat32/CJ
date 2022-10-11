@@ -1,0 +1,15 @@
+C:\Users\Astro\Desktop\PRJCT\Control_job\bin\Debug\net6.0\Control_job.exe
+C:\Users\Astro\Desktop\PRJCT\Control_job\bin\Debug\net6.0\Control_job.deps.json
+C:\Users\Astro\Desktop\PRJCT\Control_job\bin\Debug\net6.0\Control_job.runtimeconfig.json
+C:\Users\Astro\Desktop\PRJCT\Control_job\bin\Debug\net6.0\Control_job.dll
+C:\Users\Astro\Desktop\PRJCT\Control_job\bin\Debug\net6.0\Control_job.pdb
+C:\Users\Astro\Desktop\PRJCT\Control_job\obj\Debug\net6.0\Control_job.csproj.AssemblyReference.cache
+C:\Users\Astro\Desktop\PRJCT\Control_job\obj\Debug\net6.0\Control_job.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Astro\Desktop\PRJCT\Control_job\obj\Debug\net6.0\Control_job.AssemblyInfoInputs.cache
+C:\Users\Astro\Desktop\PRJCT\Control_job\obj\Debug\net6.0\Control_job.AssemblyInfo.cs
+C:\Users\Astro\Desktop\PRJCT\Control_job\obj\Debug\net6.0\Control_job.csproj.CoreCompileInputs.cache
+C:\Users\Astro\Desktop\PRJCT\Control_job\obj\Debug\net6.0\Control_job.dll
+C:\Users\Astro\Desktop\PRJCT\Control_job\obj\Debug\net6.0\refint\Control_job.dll
+C:\Users\Astro\Desktop\PRJCT\Control_job\obj\Debug\net6.0\Control_job.pdb
+C:\Users\Astro\Desktop\PRJCT\Control_job\obj\Debug\net6.0\Control_job.genruntimeconfig.cache
+C:\Users\Astro\Desktop\PRJCT\Control_job\obj\Debug\net6.0\ref\Control_job.dll
