@@ -6,9 +6,13 @@
 
 string[] array = {"TNT", "58", "Co2", ";)", "Hulk"};
 if(array.Length >= 3 )
-{
-    for (int i = 0; i < array.Length; i++)
-    {  
-        Console.Write(array[i] + ", ");
+{   
+    string[] NewArray = new string [3];
+    for (int i = 0; i < 3; i++)
+    {
+        NewArray[i] = array[i];
+        
+        
     }
-}
+    Console.Write(String.Join(", ", NewArray));
+} 
