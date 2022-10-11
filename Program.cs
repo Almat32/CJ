@@ -5,8 +5,10 @@
 // массивами.
 
 string[] array = {"TNT", "58", "Co2", ";)", "Hulk"};
-for (int i = 0; i < array.Length; i++)
-{  
-    
-    
+if(array.Length >= 3 )
+{
+    for (int i = 0; i < array.Length; i++)
+    {  
+        Console.Write(array[i] + ", ");
+    }
 }
