@@ -15,4 +15,8 @@ if(array.Length >= 3 )
         
     }
     Console.Write(String.Join(", ", NewArray));
-} 
+}
+else
+{
+    Console.WriteLine("Длина Массива меньше 3");
+}
