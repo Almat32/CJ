@@ -4,19 +4,15 @@
 // При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно
 // массивами.
 
-string[] array = {"TNT", "58", "Co2", ";)", "Hulk"};
-if(array.Length >= 3 )
-{   
-    string[] NewArray = new string [3];
-    for (int i = 0; i < 3; i++)
+string[] array = {"dont wory", "Hulk", "TNT", "58", "Co2", ";)"};
+string[] NewArray = new string[array.Length];
+
+for (int i = 0; i < array.Length; i++)
+{
+    if(array[i].Length <= 3)
     {
         NewArray[i] = array[i];
-        
-        
     }
-    Console.Write(String.Join(", ", NewArray));
 }
-else
-{
-    Console.WriteLine("Длина Массива меньше 3");
-}
+NewArray = NewArray.Where( x => x != null).ToArray();
+Console.Write(String.Join(" | ", NewArray));
